@@ -1,3 +1,11 @@
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+---
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=48F737&background=B1D5FF00&width=435&lines=+Mert+Can+Ozdemir+;QA+Automation+Test+Engineer+%F0%9F%96%A5%EF%B8%8F;Welcome+to+my+Github+World+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
 ---
