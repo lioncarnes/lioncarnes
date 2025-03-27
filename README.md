@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=48F737&background=B1D5FF00&width=435&lines=+Mert+Can+Ozdemir+;QA+Automation+Test+Engineer+%F0%9F%96%A5%EF%B8%8F;Welcome+to+my+Github+World+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
 ## 👋 Hi, I'm Mert Can (lioncarnes)  
 
@@ -31,6 +32,15 @@
 - 🚀 Improving my **Test Automation and API Testing** skills.
 - 🔍 Exploring **Cloud-Based Testing and CI/CD Pipelines**.
 - 📚 Learning **Advanced Java Concepts and Performance Testing**.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaferatakli&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaferatakli&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferatakli&layout=compact&theme=radical" width="50%" />
+</p>
 
 ---
 
