@@ -1,4 +1,9 @@
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+![Kahve içen ve test yapan karakter](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZheDB3YnQ1dWpwazdwbHFvYnNmdWluNmV5dzdtaW4yeHVrdTJwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFngIYWIg2QJgQQTMf/giphy.gif)
+
 
 
 ---
