@@ -14,7 +14,8 @@
 ---
 
 
-## 👋 Hi, I'm Mert Can <span style="color: green;">(lioncarnes)</span>
+## 👋 Hi, I'm Mert Can **(lioncarnes)**
+
 
 ### 🚀 About Me
 - 👀 I’m interested in **Software Testing, Automation, and IT Technologies**.
