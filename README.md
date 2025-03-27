@@ -37,12 +37,12 @@
 - 📚 Learning **Advanced Java Concepts and Performance Testing**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaferatakli&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaferatakli&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lioncarnes&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lioncarnes&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferatakli&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioncarnes&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
