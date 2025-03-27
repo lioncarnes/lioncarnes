@@ -61,7 +61,7 @@
 
 ### 📫 How to Reach Me
 💼 LinkedIn:  
-📧 Email: 
+📧 Email: mrtcnozdemir@outlook.com
 
 😄 **Pronouns:** he/him  
 ⚡ **Fun fact:** I love **coffee, tech gadgets, traveling, gaming, and cooking!** ☕🎮🍳
