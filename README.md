@@ -40,6 +40,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-9B4F96?style=for-the-badge&logo=appium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
