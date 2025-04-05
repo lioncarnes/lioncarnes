@@ -61,6 +61,26 @@
 
 ---
 
+
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lioncarnes&theme=dark&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lioncarnes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lioncarnes&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lioncarnes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+---
+
 ### 📫 How to Reach Me
 💼 LinkedIn:  
 📧 Email: mrtcnozdemir@outlook.com
