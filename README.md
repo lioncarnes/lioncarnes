@@ -49,15 +49,6 @@
 - 🔍 Exploring **Cloud-Based Testing and CI/CD Pipelines**.
 - 📚 Learning **Advanced Java Concepts and Performance Testing**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lioncarnes&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lioncarnes&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioncarnes&layout=compact&theme=radical" width="50%" />
-</p>
-
 
 ---
 
@@ -74,10 +65,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 ---
 
@@ -87,3 +74,10 @@
 
 😄 **Pronouns:** he/him  
 ⚡ **Fun fact:** I love **coffee, tech gadgets, traveling, gaming, and cooking!** ☕🎮🍳
+
+
+---
+
+<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
