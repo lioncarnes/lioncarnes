@@ -61,10 +61,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lioncarnes&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 ---
 
@@ -78,6 +74,10 @@
 
 
 ---
+
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
 
